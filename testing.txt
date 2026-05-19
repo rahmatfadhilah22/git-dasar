@@ -1,4 +1,6 @@
 ini file tika update
 
+update: fadhil
+update : yustika maul
 
 update : nurul 
